@@ -2,7 +2,7 @@
 
 This is Moli, a very lazy person, who hasn't written anything...
 
-### Private Server
+### Public Private Server
 - [Arcaea](https://github.com/Moli13337/Arcaea-6.14.11c)
 - [Azurlane](https://github.com/Moli13337/Azurlane-9.7.205)
 - [MahjongSoul](https://github.com/Moli13337/MahjongSoul-4.0.26)
