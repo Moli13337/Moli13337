@@ -19,4 +19,3 @@ This is Moli, a very lazy person, who hasn't written anything...
 - [Lord and Maiden](https://github.com/Moli13337/Lord-and-Maiden-1.0.1)
 - [Sparrowhime](https://github.com/Moli13337/sparrowhime-3.82)
 - [Eternaltree](https://github.com/Moli13337/Eternaltree-4.17)
-- [Mrzj](https://github.com/Moli13337/mrzj-2.1.2.330)
