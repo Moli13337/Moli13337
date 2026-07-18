@@ -5,7 +5,7 @@ This is Moli, a very lazy person, who hasn't written anything...
 ### TODO:
 
 1. Implement a private server for 《绯色回响》.
-2. Complete the private servers for 《末日战姬》 and 《雀皇麻将》.
+2. Complete the private servers for 《雀皇麻将》.
 3. Reverse engineer the client for the overseas versions of 《元气骑士》, 《元气骑士前传》, and 《交错战线》, and implement private servers for them.
 
 ### Public Private Server
