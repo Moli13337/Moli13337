@@ -4,8 +4,7 @@ This is Moli, a very lazy person, who hasn't written anything...
 
 ### TODO:
 
-1. Update Arcaea
-2. Update Azurlane
+1. Update Azurlane
 
 ### Public Private Server
 
