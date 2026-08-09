@@ -18,3 +18,7 @@ This is Moli, a very lazy person, who hasn't written anything...
 - [雀姬麻将 Sparrowhime](https://github.com/Moli13337/sparrowhime-3.82)
 - [悠久之树 Eternaltree](https://github.com/Moli13337/Eternaltree-4.17)
 - [末日战姬](https://github.com/Moli13337/mrzj-2.1.2.330)
+
+### Public Hacked Client
+
+- [Epsilon](https://github.com/NekoyaHouse/Epsilon)
