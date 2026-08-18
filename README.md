@@ -4,7 +4,7 @@ This is Moli, a very lazy person, who hasn't written anything...
 
 ### TODO:
 
-1. Update Azurlane
+1. Nope
 
 ### Public Private Server
 
