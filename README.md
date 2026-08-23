@@ -22,3 +22,4 @@ This is Moli, a very lazy person, who hasn't written anything...
 ### Public Hacked Client
 
 - [Epsilon](https://github.com/NekoyaHouse/Epsilon)
+- [MZC (shit)](https://github.com/Moli13337/MZC-Client)
