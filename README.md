@@ -19,14 +19,3 @@ This is Moli, a very lazy person, who hasn't written anything...
 
 - [Epsilon](https://github.com/NekoyaHouse/Epsilon)
 - [MZC (shit)](https://github.com/Moli13337/MZC-Client)
-
-### Public Software Protocol
-
-- [QQ](https://github.com/Moli13337/QQ-Network-Protocol)
-- [王者荣耀](https://github.com/Moli13337/Honor-of-Kings-protocol)
-- [明日方舟：终末地](https://github.com/Moli13337/Endfield-proto)
-- [卡拉彼丘](https://github.com/Moli13337/Calabiyau-proto)
-- [Poker Fate](https://github.com/Moli13337/PokerFate-Proto-Lua)
-- [依盖之书](https://github.com/Moli13337/book_of_yog-proto)
-- [末日战姬](https://github.com/Moli13337/mrzj-proto)
-- [双生幻想](https://github.com/Moli13337/sshx-proto)
