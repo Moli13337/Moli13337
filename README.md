@@ -19,3 +19,8 @@ This is Moli, a very lazy person, who hasn't written anything...
 
 - [Epsilon](https://github.com/NekoyaHouse/Epsilon)
 - [MZC (shit)](https://github.com/Moli13337/MZC-Client)
+
+### Other
+
+- [QQ Protocol](https://github.com/Moli13337/QQ-Network-Protocol)
+- [王者荣耀 Protocol](https://github.com/Moli13337/Honor-of-Kings-protocol)
