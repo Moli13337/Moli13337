@@ -24,3 +24,4 @@ This is Moli, a very lazy person, who hasn't written anything...
 
 - [QQ Protocol](https://github.com/Moli13337/QQ-Network-Protocol)
 - [王者荣耀 Protocol](https://github.com/Moli13337/Honor-of-Kings-protocol)
+- [发烧游戏 Protocol](https://github.com/Moli13337/FeverGames-Protocol-Obfuscation)
