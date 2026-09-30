@@ -30,7 +30,15 @@ All my published works are permanently free of charge. Unless there is a "DMCA" 
 
 ---
 
-Note: I won't open source products customized by others.
+## Sponsor me:
+- USDT(TRC20): `TFXiphUppMtqUDy9nSxVdiPQFWLT3vPecC`
+- USDT(ERC20): `0x04d735088a05e508a28b84d04d4e14d9cba7ecc3`
+
+---
+
+## Business behavior:
+
+I won't open source products customized by others.
 
 If you are interested, contact me on Telegram
 
