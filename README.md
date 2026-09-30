@@ -2,6 +2,8 @@
 
 This is Moli, a very lazy person, who hasn't written anything...
 
+All my published works are permanently free of charge. Unless there is a "DMCA" or other force majeure factors, the repository will never be closed.
+
 ### Public Private Server
 
 - [韵律源点 Arcaea](https://github.com/Moli13337/Arcaea-6.15.0c)
@@ -25,3 +27,31 @@ This is Moli, a very lazy person, who hasn't written anything...
 - [QQ Protocol](https://github.com/Moli13337/QQ-Network-Protocol)
 - [王者荣耀 Protocol](https://github.com/Moli13337/Honor-of-Kings-protocol)
 - [发烧游戏 Protocol](https://github.com/Moli13337/FeverGames-Protocol-Obfuscation)
+
+---
+
+Note: I won't open source products customized by others.
+
+If you are interested, contact me on Telegram
+
+### Customizable:
+
+- ​Minecraft Hacked Client Single-function.
+- All Types Game Crack(E.g. h5 apk exe).
+- Web ​Reverse(Except for 'Gov').
+- Deobfuscation and algorithm analysis.
+- Network protocol extraction and analysis.
+
+### Payment methods supported:
+
+- Alipay
+- WeChat Pay
+- PayPal
+- USDT(TRC20)
+- USDT(ERC20)
+
+### Rules:
+
+- The price varies according to the difficulty of the target.
+- ​Our studio does not support 'work first, pay later'. We can use a deposit-plus-balance payment process.
+- If I fail to complete the task despite my utmost efforts, I will refund 80% of the fee to you.
