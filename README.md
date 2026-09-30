@@ -39,7 +39,7 @@ All my published works are permanently free of charge. Unless there is a "DMCA" 
 
 ## Business behavior:
 
-I'm about to go without food。
+I am not a particularly great person. Working on open source for free is leaving me struggling to put food on the table. On top of that, I have to deal with endless harassment.
 
 I won't open source products customized by others.
 
