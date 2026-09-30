@@ -39,9 +39,11 @@ All my published works are permanently free of charge. Unless there is a "DMCA" 
 
 ## Business behavior:
 
+I'm about to go without food。
+
 I won't open source products customized by others.
 
-If you are interested, contact me on Telegram
+If you are interested, contact me on Telegram. Please state your requirements, and I will comprehensively evaluate whether to accept your order.
 
 ### Customizable:
 
