@@ -2,7 +2,7 @@
 
 This is Moli, a very lazy person, who hasn't written anything...
 
-All my published works are permanently free of charge. Unless there is a "DMCA" or other force majeure factors, the repository will never be closed.
+All my published works are permanently free of charge. Unless there is a "DMCA" or other force majeure factors, the repository will never be closed. Even if I encounter "DMCA" issues, I will continue to re-upload the files. "DMCA" is useless, only losers would use it.
 
 ### Public Private Server
 
@@ -34,35 +34,3 @@ All my published works are permanently free of charge. Unless there is a "DMCA" 
 
 - USDT(TRC20): `TFXiphUppMtqUDy9nSxVdiPQFWLT3vPecC`
 - USDT(ERC20): `0x04d735088a05e508a28b84d04d4e14d9cba7ecc3`
-
----
-
-## Business behavior:
-
-I am not a particularly great person. Working on open source for free is leaving me struggling to put food on the table. On top of that, I have to deal with endless harassment.
-
-I won't open source products customized by others.
-
-If you are interested, contact me on Telegram. Please state your requirements, and I will comprehensively evaluate whether to accept your order.
-
-### Customizable:
-
-- ​Minecraft Hacked Client Single-function.
-- All Types Game Crack(E.g. h5 apk exe).
-- Web ​Reverse(Except for 'Gov').
-- Deobfuscation and algorithm analysis.
-- Network protocol extraction and analysis.
-
-### Payment methods supported:
-
-- Alipay
-- WeChat Pay
-- PayPal
-- USDT(TRC20)
-- USDT(ERC20)
-
-### Rules:
-
-- The price varies according to the difficulty of the target.
-- ​Our studio does not support 'work first, pay later'. We can use a deposit-plus-balance payment process.
-- If I fail to complete the task despite my utmost efforts, I will refund 80% of the fee to you.
