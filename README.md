@@ -1,6 +1,6 @@
 ## Hi there                    👋 
 
-This is Moli, a very lazy person, who hasn't written anything...
+This is Moli, a very lazy person...
 
 All my published works are permanently free of charge. Unless there is a "DMCA" or other force majeure factors, the repository will never be closed. Even if I encounter "DMCA" issues, I will continue to re-upload the files. "DMCA" is useless, only losers would use it.
 
